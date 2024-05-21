@@ -8,5 +8,6 @@ I´m a studio ghibli lover. I love listening to music, watching animes and hangi
 
 ## Skills and Tools
 <p>
- 
-<\p>
+ <img src="C_vector" height = "20"/>
+ <img src="python" height = "20"/>
+</p>
