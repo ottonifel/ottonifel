@@ -1,6 +1,6 @@
 # 👋 Hi there ! I´m Felipe Ottoni Pereira
 
-<img src="gif7.gif" style="width: 100%;" alt="cozy" />
+<img src="gif 7.gif" style="width: 100%;" alt="cozy" />
 
 ### About me
 
