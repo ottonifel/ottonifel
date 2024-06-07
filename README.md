@@ -14,6 +14,5 @@ I´m a studio ghibli lover. I love listening to music, watching animes and hangi
 |  <img src="figma.svg" height = "35"/>       | <img src="adobe.svg" height = "35"/>  |                                           |                                            |                                          |
 
 ## Contact me
-If you want to get to know me better, feel free to take a look at my projects and contact me via LinkedIn or E-mail. 😄 <br>
-[<img src="linkedin.svg" height = "35"/>](https://www.linkedin.com/in/felipe-ottoni-609793256/) <br>
-&nbsp;[<img src="gmail.svg" height = "25"/>](mailto:ottonifefe@gmail.com)
+If you want to get to know me better, feel free to take a look at my projects and contact me via LinkedIn or E-mail. 😄 <br><br>
+[<img src="gmail.svg" height = "35"/>](mailto:ottonifefe@gmail.com) [<img src="linkedin.svg" height = "35"/>](https://www.linkedin.com/in/felipe-ottoni-609793256/)
