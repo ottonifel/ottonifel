@@ -9,9 +9,9 @@ I´m a studio ghibli lover. I love listening to music, watching animes and hangi
 ## Skills and Tools
 |  <img src="C_Logo.png" height = "32"/>      | <img src="python.svg" height = "32"/> | <img src="postgresql.svg" height = "35"/> | <img src="mysql.svg" height = "40"/>       | <img src="vscode.svg" height = "32"/>    |
 | ------------------------------------------- | ------------------------------------- | ----------------------------------------- | ------------------------------------------ | ---------------------------------------- |
-|  <img src="mongodb.svg" height = "35"/>        | <img src="neo4j.svg" height = "30"/>  | <img src="spark.svg" height = "20"/>         | <img src="spark.svg" height = "25"/>         | <img src="PowerBI.png" height = "35"/>      |
+|  <img src="mongodb.svg" height = "35"/>        | <img src="neo4j.svg" height = "30"/>  | <img src="spark.svg" height = "20"/>         | <img src="docker.svg" height = "35"/>         | <img src="powerBI.svg" height = "35"/>      |
 |  <img src="html.png" height = "30"/>        | <img src="css-3.png" height = "30"/>  | <img src="js.svg" height = "30"/>         | <img src="java.png" height = "35"/>         | <img src="php.png" height = "35"/>      |
-|  <img src="excel.svg" height = "31"/>         | <img src="office.svg" height = "30"/> | <img src="miro.svg" height = "35"/>     | <img src="linux_logo2.png" height = "30"/> | <img src="microsoft.svg" height = "35"/> |
+|  <img src="excel.svg" height = "31"/>         | <img src="office.svg" height = "30"/> | <img src="power-automate.svg" height = "35"/>     | <img src="linux_logo2.png" height = "30"/> | <img src="microsoft.svg" height = "35"/> |
 |  <img src="git.svg" height = "35"/>       | <img src="github.png" height = "35"/>  |  <img src="notion.svg" height = "35"/>     | <img src="trello.svg" height = "25"/>      | <img src="figma.svg" height = "35"/>    |
 
 ## Contact me
