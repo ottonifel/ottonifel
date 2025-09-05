@@ -4,7 +4,9 @@
 
 ## About me
 
-I´m a studio ghibli lover. I love listening to music, watching animes and hanging out with friends. <br><br> I'm currently studying computer science at UFScar in Sorocaba-SP. There, I was a marketing member of the junior web development company, where I carried out web application projects and where, later, I became director of the marketing area, picking up during those years not only hard skills, but also soft skills. <br><br> I also worked as a database volunteer mentor, where I improved my knowledge and found the area I liked best in computer science.
+I'm a Studio Ghibli lover who enjoys listening to music, watching anime, and spending time with friends.
+<br><br>
+I'm a Computer Science student at UFSCar in Sorocaba-SP. I was a marketing member of a junior enterprise focused on web development, where I worked on web application projects. I later became the marketing director, which helped me develop both my hard and soft skills. I also volunteered as a database mentor, an experience that really solidified my passion for that area of Computer Science.
 
 ## Skills and Tools
 |  <img src="C_Logo.png" height = "32"/>      | <img src="python.svg" height = "32"/> | <img src="postgresql.svg" height = "35"/> | <img src="mysql.svg" height = "40"/>       | <img src="vscode.svg" height = "32"/>    |
